@@ -5,6 +5,28 @@
       "f6564ec2aee819046328a0e153be574d": "ff46a8a1031eb27ef22576a077c98ab7"
     }
   },
+
+  "wtv": {
+    "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+    "clearKeys": {
+      "2c338a117d434ce4bbe3569231af90f1": "a9633d901ee8a3f4f58ac314b5c5f4fb"
+    }
+  },
+
+  "m6": {
+    "url": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+    "clearKeys": {
+      "0182ed7af02734ecb17a2f55eec98f99": "60346785b1095596de621031e9daf3ec"
+    }
+  },
+
+  "tsn1": {
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+    "clearKeys": {
+      "14eeabf30c14b7fbf3008c03099ce011": "17d2ac8dbc5429bd70af3433aa12158d"
+    }
+  },
+  
   "bein": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
   "real": "https://live-hls-abr-cdn.livepush.io/live/bigbuckbunnyclip/index.m3u8",
   "test": {
