@@ -3,33 +3,47 @@
     "url": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
     "clearKeys": {
       "1c6bfd8d1cdd4df69ea5fc4dd2f025bb": "b6fd90027dac7a94a9461f8b2638cbb4"
-    }
+    },
+    "proxy": "",
+    "sandbox": false
   },
-
   "wtv": {
     "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
     "clearKeys": {
       "2c338a117d434ce4bbe3569231af90f1": "a9633d901ee8a3f4f58ac314b5c5f4fb"
-    }
+    },
+    "proxy": "",
+    "sandbox": false
   },
-
   "m6": {
     "url": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
     "clearKeys": {
       "0182ed7af02734ecb17a2f55eec98f99": "60346785b1095596de621031e9daf3ec"
-    }
+    },
+    "proxy": "",
+    "sandbox": false
   },
-
   "tsn1": {
     "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
     "clearKeys": {
       "1223d5105392cabf1bb9c2c1fdf6539a": "340b409f4b8f78a343e0363a7938df38"
-    }
+    },
+    "proxy": "",
+    "sandbox": false
   },
-  
-  "bein": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-  "real": "https://live-hls-abr-cdn.livepush.io/live/bigbuckbunnyclip/index.m3u8",
-  "test": {
-    "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+  "bein": {
+    "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+    "proxy": "",
+    "sandbox": false
+  },
+  "bd": {
+    "url": "https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_143405%2Fenglish.m3u8",
+    "proxy": "https://fuck-you.kasin-tv.com/fc/proxy.php/",
+    "sandbox": false
+  },
+  "bd720": {
+    "url": "https://in-mc-flive.fancode.com/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/720p.m3u8?hdntl=Expires=1784541906~_GO=Generated~acl=/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/*~Signature=AeRM5cVztWRZi_a--T4iKUjyWly302pHopuVB5Og5TbbzpifUSxfrTv0VMtzCrBkdZTle6RQ9pfcghURTXv5sqB3Na4F",
+    "proxy": "https://fuck-you.kasin-tv.com/fc/proxy.php/",
+    "sandbox": false
   }
 }
