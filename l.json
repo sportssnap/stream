@@ -15,15 +15,15 @@
     "proxy": "",
     "sandbox": false
   },
-  "m6": {
-    "url": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+  "tudn": {
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
     "clearKeys": {
-      "0182ed7af02734ecb17a2f55eec98f99": "60346785b1095596de621031e9daf3ec"
+      "763ce1ebcaf23502c8cf357c6ef423e1": "0c5e6c0820a1ea28753721db00272411"
     },
     "proxy": "",
     "sandbox": false
   },
-  "tsn1": {
+  "caze": {
     "url": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
     "clearKeys": {
       "1223d5105392cabf1bb9c2c1fdf6539a": "340b409f4b8f78a343e0363a7938df38"
