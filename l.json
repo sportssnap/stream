@@ -1,8 +1,8 @@
 {
-  "fox": {
-    "url": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
+  "willow": {
+    "url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/g7faygjpo6/out/v1/290a0f3e44b141c4afdd8b3a49954749/cenc.mpd",
     "clearKeys": {
-      "1c6bfd8d1cdd4df69ea5fc4dd2f025bb": "b6fd90027dac7a94a9461f8b2638cbb4"
+      "5be2590ab12743d21a1d377d8b5e7900": "ff08faff3b5d2c874b62ec09e2db888c"
     },
     "proxy": "",
     "sandbox": false
