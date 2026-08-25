@@ -92,6 +92,30 @@
     "proxy": "",
     "sandbox": false
   },
+  "willow1": {
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+    "clearKeys": {
+      "290e09c837da78d5cd961978d390515c": "b748836c71e6a4ca68ef5b5652db6247"
+    },
+    "proxy": "",
+    "sandbox": false
+  },
+  "fox1": {
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+    "clearKeys": {
+      "5466ebd70704bdeb657f0abf3c5ca4ef": "bdd79b72d8e48ed483aa623cc38a8a16"
+    },
+    "proxy": "",
+    "sandbox": false
+  },
+  "fox2": {
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+    "clearKeys": {
+      "09453ce820d65fbc675de3185f9e454c": "98cff9600995fa381c76fdacf3c7edae"
+    },
+    "proxy": "",
+    "sandbox": false
+  },
   "bd": {
     "url": "https%3A%2F%2Fallinonereborn2.online%2Ffctest%2Fplaylists%2Fmatch_143405%2Fenglish.m3u8",
     "proxy": "https://fuck-you.kasin-tv.com/fc/proxy.php/",
